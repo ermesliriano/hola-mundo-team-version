@@ -1,14 +1,6 @@
-/*
-He añadido este otro comentario
-para probar el comando pull, pues
-en el anterior comentario utilicé
-los comandos: fetch y merge
-*/
-
 public class HolaMundo {
 	public static void main(String[] args) {
-		System.out.println("Hola, Juanjo!...(texto insertado en local)");
+		System.out.println("Hola, Juanjo!..."); //En este brach he eliminado los comentarios anteriores
 		System.out.println("Este es un nuevo intento... Me saludas?");
-		//Este comentario ha sido añadido desde GitHub, después del primer commit
 	}
 }
