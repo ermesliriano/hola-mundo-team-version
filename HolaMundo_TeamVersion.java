@@ -1,3 +1,10 @@
+/*
+He añadido este otro comentario
+para probar el comando pull, pues
+en el anterior comentario utilicé
+los comandos: fetch y merge
+*/
+
 public class HolaMundo {
 	public static void main(String[] args) {
 		System.out.println("Hola, Juanjo!...");
