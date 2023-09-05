@@ -27,3 +27,5 @@ public class HolaMundo {
 	}
 }
 // Si este flipao, que este es muy muy antiguo... pero por mis cojones que lo pusheo
+
+//Son solo ciento cincuenta o más que ver, maestro pokemon mi destino es
