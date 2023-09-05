@@ -25,16 +25,16 @@ public class HolaMundo {
 		//Este comentario ha sido añadido desde GitHub, después del primer commit
 		//Nuevo push de un branch creado en local
                 
-                
+                //sfasdfasdfasdf
                 System.out.println("Hola caracola");
+                //asdjkfhasdkfjhasdfhjk
 	}
 }
 // Si este flipao, que este es muy muy antiguo... pero por mis cojones que lo pusheo
 
-<<<<<<< HEAD
+
 //Son solo ciento cincuenta o más que ver, maestro pokemon mi destino es
-=======
 
 
 //Pues este flipao, es el puto amo! 
->>>>>>> 616a9b53c0f4b0251faf68a7b7522087c5029769
+
